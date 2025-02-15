@@ -1,0 +1,26 @@
+[
+  {
+    "username": "therese",
+    "list_type": "blacklist",
+    "list": [],
+    "strict": false,
+    "quiet": false,
+    "note": ""
+  },
+  {
+    "username": "HypixelZombies",
+    "list_type": "blacklist",
+    "list": [],
+    "strict": false,
+    "quiet": false,
+    "note": ""
+  },
+  {
+    "username": "Helpstart",
+    "list_type": "blacklist",
+    "list": [],
+    "strict": false,
+    "quiet": false,
+    "note": ""
+  }
+]
